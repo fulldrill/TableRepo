@@ -6,3 +6,9 @@ for (int i = 1; i <= 10; i++)
 {
     System.Console.WriteLine($"{num}*{i}=\t {num * i}");
 }
+
+System.Console.WriteLine("Printing Numbers from 1 to 100");
+for (int i = 1; i <= 100; i++)
+{ 
+    System.Console.Write(i+"\t");
+}
