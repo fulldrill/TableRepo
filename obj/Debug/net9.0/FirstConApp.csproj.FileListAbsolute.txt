@@ -1,0 +1,14 @@
+E:\Github\DevopsTraining\Day-1\FirstConApp\bin\Debug\net9.0\FirstConApp.exe
+E:\Github\DevopsTraining\Day-1\FirstConApp\bin\Debug\net9.0\FirstConApp.deps.json
+E:\Github\DevopsTraining\Day-1\FirstConApp\bin\Debug\net9.0\FirstConApp.runtimeconfig.json
+E:\Github\DevopsTraining\Day-1\FirstConApp\bin\Debug\net9.0\FirstConApp.dll
+E:\Github\DevopsTraining\Day-1\FirstConApp\bin\Debug\net9.0\FirstConApp.pdb
+E:\Github\DevopsTraining\Day-1\FirstConApp\obj\Debug\net9.0\FirstConApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\DevopsTraining\Day-1\FirstConApp\obj\Debug\net9.0\FirstConApp.AssemblyInfoInputs.cache
+E:\Github\DevopsTraining\Day-1\FirstConApp\obj\Debug\net9.0\FirstConApp.AssemblyInfo.cs
+E:\Github\DevopsTraining\Day-1\FirstConApp\obj\Debug\net9.0\FirstConApp.csproj.CoreCompileInputs.cache
+E:\Github\DevopsTraining\Day-1\FirstConApp\obj\Debug\net9.0\FirstConApp.dll
+E:\Github\DevopsTraining\Day-1\FirstConApp\obj\Debug\net9.0\refint\FirstConApp.dll
+E:\Github\DevopsTraining\Day-1\FirstConApp\obj\Debug\net9.0\FirstConApp.pdb
+E:\Github\DevopsTraining\Day-1\FirstConApp\obj\Debug\net9.0\FirstConApp.genruntimeconfig.cache
+E:\Github\DevopsTraining\Day-1\FirstConApp\obj\Debug\net9.0\ref\FirstConApp.dll
