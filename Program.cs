@@ -20,9 +20,9 @@ for (int i = 1; i <=500; i++)
     { System.Console.Write(i + "\t"); }
 }
 
-System.Console.WriteLine("Printing Numbers from 1 to 200 divisible by 5");
+System.Console.WriteLine("Printing Numbers from 1 to 200 divisible by 4");
 for (int i = 1; i <=200; i++)
 {
-    if (i % 5 == 0)
+    if (i % 4 == 0)
     { System.Console.Write(i + "\t"); }
 }
