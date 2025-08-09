@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Github\\DevopsTraining\\Day-1\\FirstConApp\\FirstConApp.csproj",
+      "projectUniqueName": "C:\\Users\\PHRENCH\\.jenkins\\workspace\\tablerepo\\FirstConApp.csproj",
       "projectName": "FirstConApp",
-      "projectPath": "E:\\Github\\DevopsTraining\\Day-1\\FirstConApp\\FirstConApp.csproj",
+      "projectPath": "C:\\Users\\PHRENCH\\.jenkins\\workspace\\tablerepo\\FirstConApp.csproj",
       "packagesPath": "C:\\Users\\PHRENCH\\.nuget\\packages\\",
-      "outputPath": "E:\\Github\\DevopsTraining\\Day-1\\FirstConApp\\obj\\",
+      "outputPath": "C:\\Users\\PHRENCH\\.jenkins\\workspace\\tablerepo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PHRENCH\\AppData\\Roaming\\NuGet\\NuGet.Config"
