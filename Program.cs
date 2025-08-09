@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("We Welcome you in C#");
-int num = 5;
+int num = 12;
 System.Console.WriteLine($"*Table of {num}*");
 for (int i = 1; i <= 10; i++)
 {

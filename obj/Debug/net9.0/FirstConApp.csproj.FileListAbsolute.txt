@@ -12,3 +12,4 @@ E:\Github\DevopsTraining\Day-1\FirstConApp\obj\Debug\net9.0\refint\FirstConApp.d
 E:\Github\DevopsTraining\Day-1\FirstConApp\obj\Debug\net9.0\FirstConApp.pdb
 E:\Github\DevopsTraining\Day-1\FirstConApp\obj\Debug\net9.0\FirstConApp.genruntimeconfig.cache
 E:\Github\DevopsTraining\Day-1\FirstConApp\obj\Debug\net9.0\ref\FirstConApp.dll
+E:\Github\DevopsTraining\Day-1\FirstConApp\obj\Debug\net9.0\FirstConApp.sourcelink.json
