@@ -13,15 +13,8 @@ for (int i = 1; i <= 100; i++)
     System.Console.Write(i+"\t");
 }
 
-System.Console.WriteLine("Printing Numbers from 1 to 500 divisible by 5");
-for (int i = 1; i <=500; i++)
-{
-    if (i % 5 == 0)
-    { System.Console.Write(i + "\t"); }
-}
-
-System.Console.WriteLine("Printing Numbers from 1 to 200 divisible by 4");
-for (int i = 1; i <=200; i++)
+System.Console.WriteLine("Printing Numbers from 1 to 400 divisible by 4");
+for (int i = 1; i <=400; i++)
 {
     if (i % 4 == 0)
     { System.Console.Write(i + "\t"); }
