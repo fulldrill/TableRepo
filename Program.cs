@@ -12,3 +12,10 @@ for (int i = 1; i <= 100; i++)
 { 
     System.Console.Write(i+"\t");
 }
+
+System.Console.WriteLine("Printing Numbers from 1 to 500 divisible by 5");
+for (int i = 1; i <=500; i++)
+{
+    if (i % 5 == 0)
+    { System.Console.Write(i + "\t"); }
+}
